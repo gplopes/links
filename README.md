@@ -24,3 +24,5 @@ Interesting Links around the internet
 
 [ReactNative Perfs](https://github.com/mfrachet/rn-render-perfs)
 
+[Add Existing Project to Github](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+
