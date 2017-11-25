@@ -26,3 +26,14 @@ Interesting Links around the internet
 
 [Add Existing Project to Github](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
+[Scrollytelling with IntersectionObserver](https://github.com/russellgoldenberg/scrollama)
+
+[Git Useful tips](https://tutorialzine.com/2017/11/10-useful-git-tips)
+
+[Developer tool to visualize a React application's component hierarchy](https://github.com/team-gryff/react-monocle)
+
+---
+Try
+[Strapi CMS](https://strapi.io/)
+
+[Timber](https://timber.io/)
