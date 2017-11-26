@@ -32,8 +32,11 @@ Interesting Links around the internet
 
 [Developer tool to visualize a React application's component hierarchy](https://github.com/team-gryff/react-monocle)
 
+[Plugin Mask Inputs](https://unmanner.github.io/imaskjs/)
+
 ---
-Try
+## Try
+
 [Strapi CMS](https://strapi.io/)
 
 [Timber](https://timber.io/)
