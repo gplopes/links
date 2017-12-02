@@ -38,6 +38,10 @@ Interesting Links around the internet
 
 [Drawer](https://github.com/stoeffel/react-motion-drawer)
 
+[Template literals](https://github.com/declandewet/common-tags)
+
+[''](https://github.com/PolymerLabs/lit-html)
+
 ---
 ## Try
 
