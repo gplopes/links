@@ -42,6 +42,8 @@ Interesting Links around the internet
 
 [''](https://github.com/PolymerLabs/lit-html)
 
+[30 Seconds of Code](https://github.com/Chalarangelo/30-seconds-of-code)
+
 ---
 ## Try
 
