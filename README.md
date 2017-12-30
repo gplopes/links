@@ -40,9 +40,13 @@ Interesting Links around the internet
 
 [Template literals](https://github.com/declandewet/common-tags)
 
-[''](https://github.com/PolymerLabs/lit-html)
+[Lit-Html](https://github.com/PolymerLabs/lit-html)
 
 [30 Seconds of Code](https://github.com/Chalarangelo/30-seconds-of-code)
+
+[Magic Methos in JS]* (https://medium.com/@alonronin/magic-methods-in-javascript-meet-proxy-65e6305f4d3e)
+
+[Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 
 ---
 ## Try
