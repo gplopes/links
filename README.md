@@ -48,6 +48,8 @@ Interesting Links around the internet
 
 [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 
+[Webpack Dashboard](https://github.com/zouhir/jarvis)
+
 ---
 ## Try
 
