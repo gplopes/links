@@ -50,6 +50,8 @@ Interesting Links around the internet
 
 [Webpack Dashboard](https://github.com/zouhir/jarvis)
 
+[Parallax CSS Vars](https://basicscroll.electerious.com/)
+
 ---
 ## Try
 
