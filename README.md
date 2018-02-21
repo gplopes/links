@@ -52,6 +52,8 @@ Interesting Links around the internet
 
 [Parallax CSS Vars](https://basicscroll.electerious.com/)
 
+[Gradient Tool](http://ourownthing.co.uk/gradpad.html)
+
 ---
 ## Try
 
