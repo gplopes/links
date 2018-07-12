@@ -58,6 +58,8 @@ Interesting Links around the internet
 
 [New React Context API](https://www.youtube.com/watch?time_continue=11&v=yzQ_XulhQFw)
 
+[Background Scroll Effect](https://codersblock.com/blog/physics-based-background-scroll-effects/)
+
 ---
 ## Try
 
