@@ -60,6 +60,8 @@ Interesting Links around the internet
 
 [Background Scroll Effect](https://codersblock.com/blog/physics-based-background-scroll-effects/)
 
+[Quick Test HTML Email](https://putsmail.com/tests/new)
+
 ---
 ## Try
 
