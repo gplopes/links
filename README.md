@@ -62,6 +62,10 @@ Interesting Links around the internet
 
 [Quick Test HTML Email](https://putsmail.com/tests/new)
 
+[33 JS Concepts](https://github.com/leonardomso/33-js-concepts#readme)
+
+
+
 ---
 ## Try
 
