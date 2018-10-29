@@ -64,6 +64,8 @@ Interesting Links around the internet
 
 [33 JS Concepts](https://github.com/leonardomso/33-js-concepts#readme)
 
+[30 secs CSS](https://30-seconds.github.io/30-seconds-of-css/)
+
 
 
 ---
