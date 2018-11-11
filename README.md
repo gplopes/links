@@ -66,7 +66,7 @@ Interesting Links around the internet
 
 [30 secs CSS](https://30-seconds.github.io/30-seconds-of-css/)
 
-
+[Console.log](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8)
 
 ---
 ## Try
