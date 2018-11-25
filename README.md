@@ -72,6 +72,8 @@ Interesting Links around the internet
 
 [30 CSS](https://30-seconds.github.io/30-seconds-of-css/)
 
+[React Typescript](https://github.com/sw-yx/react-typescript-cheatsheet)
+
 ---
 ## Try
 
