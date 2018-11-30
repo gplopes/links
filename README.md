@@ -78,6 +78,8 @@ Interesting Links around the internet
 
 [CloudImage](https://www.cloudimage.io/en/home/)
 
+[Img-Min](https://img-min.now.sh/)
+
 ---
 ## Try
 
