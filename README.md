@@ -76,7 +76,7 @@ Interesting Links around the internet
 
 [ImgiX Services](https://www.imgix.com/)
 
-[CloudImage)(https://www.cloudimage.io/en/home/)
+[CloudImage](https://www.cloudimage.io/en/home/)
 
 ---
 ## Try
