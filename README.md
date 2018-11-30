@@ -74,6 +74,10 @@ Interesting Links around the internet
 
 [React Typescript](https://github.com/sw-yx/react-typescript-cheatsheet)
 
+[ImgiX Services](https://www.imgix.com/)
+
+[CloudImage)(https://www.cloudimage.io/en/home/)
+
 ---
 ## Try
 
