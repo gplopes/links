@@ -84,6 +84,7 @@ Interesting Links around the internet
 
 [ImageRevreal](https://tympanus.net/Development/ImageRevealHover/)
 
+[React Pose](https://popmotion.io/pose/)
 
 
 ---
