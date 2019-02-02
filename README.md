@@ -44,6 +44,8 @@ Interesting Links around the internet
 
 [30 Seconds of Code](https://github.com/Chalarangelo/30-seconds-of-code)
 
+[33 JS Concept](https://github.com/leonardomso/33-js-concepts)
+
 [Magic Methos in JS](https://medium.com/@alonronin/magic-methods-in-javascript-meet-proxy-65e6305f4d3e)
 
 [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
