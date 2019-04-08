@@ -88,6 +88,8 @@ Interesting Links around the internet
 
 [React Pose](https://popmotion.io/pose/)
 
+[Console.log](https://areknawo.com/getting-creative-with-the-console-api/)
+
 
 ---
 ## Try
