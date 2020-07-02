@@ -92,6 +92,8 @@ Interesting Links around the internet
 
 [Accessibility](https://www.aditus.io/talks/react-and-accessibility/)
 
+[Friendly Errors](https://github.com/geowarin/friendly-errors-webpack-plugin)
+
 
 ---
 ## Try
