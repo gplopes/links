@@ -94,6 +94,8 @@ Interesting Links around the internet
 
 [Friendly Errors](https://github.com/geowarin/friendly-errors-webpack-plugin)
 
+[CLI Fuck](https://github.com/nvbn/thefuck)
+
 
 ---
 ## Try
